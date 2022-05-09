@@ -1,0 +1,7 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  padding: 2%;
+  color: #fff;
+  max-width: 100% !important;
+}
